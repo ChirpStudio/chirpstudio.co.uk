@@ -1247,10 +1247,12 @@
               }
             },
             "H3": {
-              "color": "#f79c7b"
+              "color": "#f79c7b",
+              "text-align": "left"
             },
             "H1": {
-              "color": "#c66330"
+              "color": "#c66330",
+              "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#82786e",
